@@ -1,6 +1,6 @@
 # firebase_session
 
-A new Flutter application.
+한동대학교 Advanced Flutter Camp에서 Firebase Session에서 사용했던 프로젝트
 
 ## Getting Started
 
